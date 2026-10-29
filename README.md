@@ -42,7 +42,7 @@ DocChat is a full-stack document intelligence platform built with Next.js 16, La
 ## Quick Start
 
 ```bash
-git clone https://github.com/medy-gribkov/notebooklm-clone.git
+git clone https://github.com/mahdy-gribkov/notebooklm-clone.git
 cd NoteBookLM-clone
 npm install --legacy-peer-deps
 
@@ -278,4 +278,4 @@ MIT
 
 ## Author
 
-Built by [Medy Gribkov](https://medygribkov.vercel.app)
+Built by **Mahdy Lorens Gribkov** (מהדי לורנס גריבקוב) | [mahdygribkov.com](https://mahdygribkov.com) | [SporeSec](https://sporesec.com/en/mahdy-lorens-gribkov)
